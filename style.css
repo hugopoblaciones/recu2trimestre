@@ -1,0 +1,60 @@
+.menu{
+    background-color: darkcyan;
+    color: aliceblue;
+}
+
+a{
+    color: aliceblue;
+}
+
+.navegacion{
+    text-align: right;
+}
+
+.bienvenida{
+    text-align: center;
+}
+
+.Nuestroscursos{
+    text-align: center;
+}
+
+.curos{
+    text-align: left;
+}
+
+.cursos2{
+    text-align: center;
+}
+
+.cursos3{
+    text-align: right;
+}
+
+h4{
+    color: darkcyan;
+}
+
+h5{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+button{
+    background-color: darkcyan;
+    color: aliceblue;
+    text-align: center;
+}
+
+fieldset{
+background-color:gainsboro;
+text-align: center;
+}
+
+.final{
+    text-align: center;
+    background-color: darkcyan;
+    color: rgb(255, 255, 255);
+}
